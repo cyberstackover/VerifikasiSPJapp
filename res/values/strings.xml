@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Android Dashboard!</string>
+     <string name="scan">Hello World, you can scan QRCODE now!</string>
+      <string name="report">Hello World, you can see report now!</string>
+     <string name="app_name">Sistem Verifikasi SPJ</string>
+    <string name="menu_settings">Settings</string>
+    <string name="nullAlert">null alret bro</string>
+    <string name="alertTitle">title alret bro</string>
+     <string name="ok">ok bro</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="_logo_description">Semen Indonesia Logo</string>
+    <string name="_id_input_hint">Username</string>
+    <string name="_your_id_description">input your user id here</string>
+    <string name="_pass_input_hint">Password</string>
+    <string name="_log_in_button">Sign In</string>
+     <string name="_Forgot_Pass">Fogot Pasword</string>
+    <string name="_help">Help</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="radio_toko">Toko</string>
+    <string name="radio_driver">Driver</string>
+     <string name="button_label">Verifikasi Akun</string>
+     
+    <string-array name="_menu_array">
+        <item >New Survey</item>
+        <item >Survey Archive</item>
+        <item >Profile</item>
+        <item >Report Bugs</item>
+        <item >Help</item>
+        <item >About</item>
+        <item >Log Out</item>
+    </string-array>
+        <string name="_dummy_button">Dummy Button</string>
+        <string name="_city_list">Pilih Kota:</string>
+        <string name="_sg_logo">Semen Gresik Logo</string>
+        <string name="_sg_50_price">Semen Gresik 50kg</string>
+        <string name="_rp">"Rp. "</string>
+        <string name="_ho_50_price">Semen Holcim 50kg</string>
+        <string name="_ho_logo">Holcim Logo</string>
+        <string name="_tr_logo">Tiga Roda Logo</string>
+        <string name="_bs_logo">Bosowa Logo</string>
+        <string name="_tr_50_price">Semen Tiga Roda 50kg</string>
+        <string name="_bs_50_price">Semen Bosowa 50kg</string>
+        <string name="_profile_desc">Profile Page View</string>
+        <string name="_user_id_text">User ID Number</string>
+        <string name="_user_name_text">User Name</string>
+        <string name="_user_contact_text">Registered Contact</string>
+        <string name="_user_password_text">Registered Password</string>
+        <string name="_id_text">:</string>
+        <string name="_dummy_password">password</string>
+        <string name="_show_pass_button">Show Password</string>
+        <string name="_hide_pass_button">Hide Password</string>
+        <string name="_available_city_text">Available City</string>
+        <string name="_show_city_button">Show Available</string>
+        <string name="title_new_survey_display_message">Messages</string>
+        <string name="_done">Done</string>
+        <string name="_refresh">Refresh All</string>
+        <string name="_delete">Delete Current Data</string>
+        <string name="no">Tidak</string>
+        <string name="yes">Ya</string>
+        <string name="quit">Quit</string>
+        <string name="really_quit">Anda ingin keluar?</string>
+</resources>
